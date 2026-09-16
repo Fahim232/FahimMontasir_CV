@@ -18,7 +18,7 @@ Software Quality Assurance (SQA) Job Seeker
 ## 📫 Contact
 - **Email:** montasirseyam@gmail.com
 - **GitHub:** [Fahim232](https://github.com/Fahim232)
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** [Kazi Fahim Montasir](https://www.linkedin.com/in/kazifahim-montasir/)
 
 ---
 *Last Updated: September 2026*
