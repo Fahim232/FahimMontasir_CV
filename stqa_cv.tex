@@ -1,0 +1,105 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{fontawesome5}
+\usepackage{titlesec}
+
+\definecolor{primary}{HTML}{2E86AB}
+\definecolor{dark}{HTML}{1A1A2E}
+
+\titleformat{\section}{\large\bfseries\color{dark}}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{12pt}{8pt}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+% HEADER
+\begin{center}
+    {\LARGE\bfseries\color{dark} [YOUR NAME]}\\[6pt]
+    {\color{primary} \faIcon{envelope} your.email@example.com \quad \faIcon{phone} +880-XXXXXXXXX}\\
+    {\color{primary} \faIcon{linkedin} linkedin.com/in/yourprofile \quad \faIcon{github} github.com/yourusername}\\
+    {\color{primary} \faIcon{map-marker-alt} Dhaka, Bangladesh}
+\end{center}
+
+% PROFESSIONAL SUMMARY
+\section{Professional Summary}
+Detail-oriented Software QA Engineer with [X] years of experience in manual and automated testing. Proficient in test automation frameworks, bug tracking, and agile methodologies. Passionate about delivering high-quality software products.
+
+% TECHNICAL SKILLS
+\section{Technical Skills}
+\begin{itemize}[leftmargin=*, nosep]
+    \item \textbf{Programming:} Python, Java, JavaScript, SQL
+    \item \textbf{Test Automation:} Selenium WebDriver, Cypress, Playwright, Appium
+    \item \textbf{Frameworks:} TestNG, JUnit, pytest, Robot Framework
+    \item \textbf{API Testing:} Postman, REST Assured, SoapUI
+    \item \textbf{CI/CD:} Jenkins, GitHub Actions, GitLab CI
+    \item \textbf{Tools:} JIRA, TestRail, Git, Docker
+    \item \textbf{Database:} MySQL, PostgreSQL, MongoDB
+    \item \textbf{Methodologies:} Agile, Scrum, SDLC, STLC
+\end{itemize}
+
+% PROFESSIONAL EXPERIENCE
+\section{Professional Experience}
+
+\textbf{Software QA Engineer} \hfill \textit{Jan 2022 -- Present}\\
+\textit{Company Name, Dhaka}
+\begin{itemize}[leftmargin=*, nosep]
+    \item Developed and maintained automated test suites using Selenium and Python, reducing regression testing time by 40\%
+    \item Designed and executed 500+ test cases for web and mobile applications
+    \item Identified and documented 200+ bugs using JIRA, collaborating with development teams for timely resolution
+    \item Implemented CI/CD pipelines with Jenkins, enabling automated test execution on every code commit
+    \item Performed API testing using Postman and REST Assured, ensuring 95\% code coverage
+\end{itemize}
+
+\vspace{6pt}
+
+\textbf{Junior QA Engineer} \hfill \textit{Jun 2020 -- Dec 2021}\\
+\textit{Company Name, Dhaka}
+\begin{itemize}[leftmargin=*, nosep]
+    \item Conducted manual testing for web applications, including functional, regression, and UAT testing
+    \item Created detailed test plans and test cases following STLC best practices
+    \item Reported bugs and tracked resolution using Bugzilla and JIRA
+    \item Assisted in building automation framework from scratch using Selenium and TestNG
+\end{itemize}
+
+% EDUCATION
+\section{Education}
+
+\textbf{Bachelor of Science in Computer Science} \hfill \textit{2016 -- 2020}\\
+\textit{University Name, Dhaka}
+\begin{itemize}[leftmargin=*, nosep]
+    \item CGPA: 3.50/4.00
+    \item Thesis: [Your Thesis Title]
+\end{itemize}
+
+% CERTIFICATIONS
+\section{Certifications}
+\begin{itemize}[leftmargin=*, nosep]
+    \item ISTQB Certified Tester Foundation Level (CTFL)
+    \item Selenium WebDriver with Python -- Udemy
+    \item AWS Cloud Practitioner (Optional)
+\end{itemize}
+
+% PROJECTS
+\section{Key Projects}
+\textbf{E-commerce Test Automation Framework}
+\begin{itemize}[leftmargin=*, nosep]
+    \item Built a data-driven test automation framework using Selenium, Python, and pytest
+    \item Integrated with Jenkins for automated nightly regression runs
+    \item Generated HTML reports with Allure for stakeholder visibility
+\end{itemize}
+
+\vspace{6pt}
+
+\textbf{Mobile App Testing (Android/iOS)}
+\begin{itemize}[leftmargin=*, nosep]
+    \item Performed mobile testing using Appium for Android and iOS platforms
+    \item Automated 50+ mobile test cases across multiple devices
+\end{itemize}
+
+\end{document}
