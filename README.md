@@ -1,7 +1,7 @@
 # Fahim Montasir - SQA Engineer CV
 
 ## About Me
-Software Quality Assurance (SQA) Fresher | Job Seeker
+Software Quality Assurance (SQA) Job Seeker
 
 ## 📄 CV
 - **LaTeX Version:** [stqa_cv.tex](stqa_cv.tex)
