@@ -4,7 +4,7 @@
 Software Quality Assurance (SQA) Job Seeker
 
 ## 📄 CV
-- **LaTeX Version:** [stqa_cv.tex](stqa_cv.tex)
+- **PDF Version:** [SQA_CV_FahimMontasir.pdf](SQA_CV_FahimMontasir.pdf)
 
 ## 🔧 Technical Skills
 - **Programming:** Python, Java, JavaScript, SQL
