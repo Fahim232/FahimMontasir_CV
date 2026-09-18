@@ -11,7 +11,6 @@ Software Quality Assurance (SQA) Job Seeker
 - **Test Automation:** Selenium WebDriver, Cypress, Playwright, Appium
 - **Frameworks:** TestNG, JUnit, pytest, Robot Framework
 - **API Testing:** Postman, REST Assured, SoapUI
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
 - **Tools:** JIRA, TestRail, Git, Docker
 - **Database:** MySQL, PostgreSQL, MongoDB
 
