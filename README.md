@@ -4,8 +4,7 @@
 Software Quality Assurance (SQA) Job Seeker
 
 ## 📄 CV
-- **Updated PDF (SQA Engineer):** [Fahim_Montasir_SQA_Engineer_CV.pdf](Fahim_Montasir_SQA_Engineer_CV.pdf)
-- **Previous PDF:** [SQA_CV_FahimMontasir.pdf](SQA_CV_FahimMontasir.pdf)
+- **PDF:** [Fahim_Montasir_SQA_Engineer_CV.pdf](Fahim_Montasir_SQA_Engineer_CV.pdf)
 
 ## 🔧 Technical Skills
 - **Programming:** Python, Java, JavaScript, SQL
