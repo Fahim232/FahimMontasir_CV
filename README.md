@@ -1,0 +1,23 @@
+# Fahim Montasir - SQA Engineer CV
+
+## About Me
+Software Quality Assurance (SQA) Job Seeker
+
+## 📄 CV
+- **PDF:** [Fahim_Montasir_SQA_Engineer_CV.pdf](Fahim_Montasir_SQA_Engineer_CV.pdf)
+
+## 🔧 Technical Skills
+- **Programming:** Python, Java, JavaScript, SQL
+- **Test Automation:** Selenium WebDriver, Cypress, Playwright, Appium
+- **Frameworks:** TestNG, JUnit, pytest, Robot Framework
+- **API Testing:** Postman, REST Assured, SoapUI
+- **Tools:** JIRA, TestRail, Git, Docker
+- **Database:** MySQL, PostgreSQL, MongoDB
+
+## 📫 Contact
+- **Email:** montasirseyam@gmail.com
+- **GitHub:** [Fahim232](https://github.com/Fahim232)
+- **LinkedIn:** [Kazi Fahim Montasir](https://www.linkedin.com/in/kazifahim-montasir/)
+
+---
+*Last Updated: September 2026*
